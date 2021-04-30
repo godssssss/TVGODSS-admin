@@ -314,7 +314,7 @@ local SettingsTable = {
 	AimMode = "Prediction";
 	AimlockMode = "LeftClick";
 	AimbotVelocity = 5;
-	CmdBarImage = "http://www.roblox.com/asset/?id=1475147085";
+	CmdBarImage = "http://www.roblox.com/asset/?id=2812081613";
 	CmdBarKey = "Quote"
 }
 
@@ -2714,7 +2714,7 @@ AddCommand(function(Arguments)
 		elseif Arguments[1] == "none" then 
 			CmdBarImageLabel.Image = ""
 		elseif Arguments[1] == "default" then
-			CmdBarImageLabel.Image = "http://www.roblox.com/asset/?id=1475147085"
+			CmdBarImageLabel.Image = "http://www.roblox.com/asset/?id=2812081613"
 		end
 		updateHotkeys(ConfigurationFile)
 	end
@@ -3297,7 +3297,7 @@ end))
 
 -- [[ End ]] --
 
-notif("TVGODSS ON TOP!","Ok heres how long it took to load: " .. string.format("%.6f",tick()-Tick) .. " seconds\n(TVGODSS ON TOP)",10,"rbxassetid://38968090")
+notif("TVGODSS ON TOP!","Ok heres how long it took to load: " .. string.format("%.6f",tick()-Tick) .. " seconds\n(TVGODSS ON TOP)",10,"rbxassetid://2474242690")
 notif("Recent skid TVGODSS slapped:","CARDlNI",10,nil)
 
 --[[while wait(8) do
