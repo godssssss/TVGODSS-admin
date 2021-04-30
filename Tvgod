@@ -437,7 +437,7 @@ getgenv().runHotkeys = function(ConfigToRun)
 	AimMode = RunSettings.AimMode or "Prediction";
 	AimlockMode = RunSettings.AimlockMode or "LeftClick"
 	AimbotVelocity = RunSettings.AimbotVelocity or 5
-	CmdBarImage = RunSettings.CmdBarImage or "http://www.roblox.com/asset/?id=2812081613"
+	CmdBarImage = RunSettings.CmdBarImage or "http://www.roblox.com/asset/?id=1475147085"
 	CmdBarKey = RunSettings.CmdBarKey or "Quote"
 end
 if readfile and writefile then 
@@ -2714,7 +2714,7 @@ AddCommand(function(Arguments)
 		elseif Arguments[1] == "none" then 
 			CmdBarImageLabel.Image = ""
 		elseif Arguments[1] == "default" then
-			CmdBarImageLabel.Image = "http://www.roblox.com/asset/?id=2812081613"
+			CmdBarImageLabel.Image = "http://www.roblox.com/asset/?id=1475147085"
 		end
 		updateHotkeys(ConfigurationFile)
 	end
@@ -3297,8 +3297,8 @@ end))
 
 -- [[ End ]] --
 
-notif("TVGODSS ON TOP","took " .. string.format("%.6f",tick()-Tick) .. " seconds\n(TVGODSS ON TOP)",10,"rbxassetid://2474242690")
-notif("Newest Update","TVGODSS shit on pwnnzyy LOL",10,nil)
+notif("TVGODSS ON TOP!","Ok heres how long it took to load: " .. string.format("%.6f",tick()-Tick) .. " seconds\n(TVGODSS ON TOP)",10,"rbxassetid://5421948907")
+notif("Recent skid TVGODSS slapped:","CARDlNI",10,nil)
 
 --[[while wait(8) do
 	local Data = GetData()
