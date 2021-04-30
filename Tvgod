@@ -255,50 +255,50 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(51,0,0);
 	};
-	[0] = {
+	[1] = {
 		['Name'] = "";
 		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(255,255,255);
+		['Colour'] = Color3.fromRGB(0,0,0);
 	};
-	[0] = {
-		['Name'] = "";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(255,0,0);
-	};
-	[0] = {
-		['Name'] = "";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(255,145,175)
-	};
-	[0] = {
+	[1] = {
 		['Name'] = "";
 		['Access'] = 3;
 		['Colour'] = Color3.fromRGB(0,0,0);
 	};
-	[0] = {
+	[1] = {
+		['Name'] = "";
+		['Access'] = 3;
+		['Colour'] = Color3.fromRGB(0,0,0)
+	};
+	[1] = {
 		['Name'] = "";
 		['Access'] = 3;
 		['Colour'] = Color3.fromRGB(0,0,0);
 	};
-	[0] = {
+	[1] = {
 		['Name'] = "";
 		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(235,31,31);
+		['Colour'] = Color3.fromRGB(0,0,0);
 	};
-	[0] = {
+	[1] = {
 		['Name'] = "";
 		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(235,31,31);
+		['Colour'] = Color3.fromRGB(0,0,0);
 	};
-	[0] = {
+	[1] = {
 		['Name'] = "";
 		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(255,0,255);
+		['Colour'] = Color3.fromRGB(0,0,0);
 	};
-	[0] = {
+	[1] = {
 		['Name'] = "";
 		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(76,68,45);
+		['Colour'] = Color3.fromRGB(0,0,0);
+	};
+	[1] = {
+		['Name'] = "";
+		['Access'] = 3;
+		['Colour'] = Color3.fromRGB(0,0,0);
 	};
 }
 
