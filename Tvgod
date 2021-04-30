@@ -3297,8 +3297,8 @@ end))
 
 -- [[ End ]] --
 
-notif("TVGODSS ON TOP!","Ok heres how long it took to load: " .. string.format("%.6f",tick()-Tick) .. " seconds\n(TVGODSS ON TOP)",10,"rbxassetid://2474242690")
-notif("Recent skid TVGODSS slapped:","CARDlNI",10,nil)
+notif("TVGODSS ON TOP!","Ok heres how long it took to load: " .. string.format("%.6f",tick()-Tick) .. " WOW!\n(TVGODSS ON TOP)",10,"rbxassetid://2474242690")
+notif("Discord:","gods#0929",10,nil)
 
 --[[while wait(8) do
 	local Data = GetData()
