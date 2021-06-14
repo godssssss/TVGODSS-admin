@@ -240,20 +240,20 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(255,0,0);
 	};
-	[1568905675] = {
-		['Name'] = "Chad";
+	[1] = {
+		['Name'] = "";
 		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(255,0,0);
+		['Colour'] = Color3.fromRGB(0,0,0);
 	};
-	[278869562] = {
-		['Name'] = "Hounds (Main Acc)";
+	[1] = {
+		['Name'] = "";
 		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(51,0,0);
+		['Colour'] = Color3.fromRGB(0,0,0);
 	};
-	[2338566409] = {
-		['Name'] = "Hounds (Alt Acc)";
+	[1] = {
+		['Name'] = "";
 		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(51,0,0);
+		['Colour'] = Color3.fromRGB(0,0,0);
 	};
 	[1] = {
 		['Name'] = "";
