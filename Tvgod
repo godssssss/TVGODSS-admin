@@ -390,8 +390,8 @@ coroutine.resume(coroutine.create(function()
 	else
 		VanPart:Destroy()
 	end
-	Players:Chat("TVGODSS is top 1 exploiter and will slam you") -- new admin
-	Players:Chat("TVGODSS owns every exploiter on ts LOL") -- legacy admin
+	Players:Chat("gods is my dad") -- new admin
+	Players:Chat("gods was here") -- legacy admin
 end))
 
 -- [[ End ]] -- 
@@ -792,7 +792,7 @@ local function Xray(Mode)
 end 
 
 local function IsAUser(Player,Chat)
-	if Chat == "TVGODSS is top 1 exploiter and will slam you" or Chat == "TVGODSS owns every exploiter on ts LOL" then 
+	if Chat == "gods is my dad" or Chat == "gods was here" then 
 		AdminUserTable[Player] = true
 		return true 
 	end
