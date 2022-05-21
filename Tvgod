@@ -245,10 +245,10 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(0,0,0);
 	};
-	[1] = {
-		['Name'] = "";
+	[3529618633] = {
+		['Name'] = "Kaz (Epic Pro Gamer)";
 		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(0,0,0);
+		['Colour'] = Color3.fromRGB(252,255,189);
 	};
 	[1] = {
 		['Name'] = "";
