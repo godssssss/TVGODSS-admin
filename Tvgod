@@ -235,25 +235,25 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(0,128,0);
 	};
-	[242821386] = {
-		['Name'] = "Jason (Og Friend)";
-		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(255,0,0);
-	};
 	[1670766435] = {
-		['Name'] = "jayjaywordup (Friend and og)";
+		['Name'] = "jayjaywordup (Friend and og";
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(0,0,0);
-	};
-	[3529618633] = {
-		['Name'] = "Kaz (Epic Pro Gamer)";
-		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(252,255,189);
 	};
 	[1658186330] = {
 		['Name'] = "Cory (Cool)";
 		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(63,255,0);
+		['Colour'] = Color3.fromRGB(204,204,0);
+	};
+	[1] = {
+		['Name'] = "";
+		['Access'] = 4;
+		['Colour'] = Color3.fromRGB(0,0,0);
+	};
+	[1] = {
+		['Name'] = "";
+		['Access'] = 4;
+		['Colour'] = Color3.fromRGB(0,0,0);
 	};
 	[1] = {
 		['Name'] = "";
@@ -3297,7 +3297,7 @@ end))
 
 -- [[ End ]] --
 
-notif("gods admin","the script took: " .. string.format("%.6f",tick()-Tick) .. " seconds to load\nlast updated 7/31/2022",10,"rbxassetid://2474242690")
+notif("gods admin","the script took: " .. string.format("%.6f",tick()-Tick) .. " seconds to load\nlast updated 9/4/2022",10,"rbxassetid://2474242690")
 notif("Discord:","gods#0001",10,nil)
 
 --[[while wait(8) do
